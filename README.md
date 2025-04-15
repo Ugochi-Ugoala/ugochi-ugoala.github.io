@@ -2,11 +2,10 @@
 
 ## Projects
 
-### Impact Analysis for GoodThought NGO**
+### Impact Analysis for GoodThought NGO | SQL Project
 ---
 - **Date: 2025-04-14**
 - **Platform: DataCamp**
-- **Tools Used: PostgreSQL, SQL (JOINs, CTEs, Aggregations, Filtering)**
 - **[Link](https://www.datacamp.com/datalab/w/8016cfc2-d174-4614-b9e2-cf5d0b96fca8)**
 
  *Description:*
@@ -18,13 +17,11 @@
     data-driven decision-making in global education, healthcare, and sustainability projects.
 --- 
 
-### Project 2
+### Business Report Automation with Slack | Python & SQL Project
 ---
-- **Title: "Business Report Automation with Slack"**
 - **Date: 2025-03-12**
 - **Platform: DataCamp**
-- **Tools Used: Python, PostgreSQL, SQL (JOINs, CTEs, Aggregations, Filtering)**
-- **Link: https://www.datacamp.com/datalab/w/d2fe9599-b2ec-4845-95ec-a322dc293a04**
+- **[Link](https://www.datacamp.com/datalab/w/d2fe9599-b2ec-4845-95ec-a322dc293a04)**
 
 *Description:*
 - Designed a structured SQL database to analyze top staff sellers, top customers, and total monthly sales for a bicycle 
@@ -34,11 +31,10 @@
 - Automated monthly sales reports using Python and Slack, providing real-time updates for management decision-making.
 
 
-### Project 3
+### Eccomerce Analysis | Excel & Power BI Project
 ---
-- **Title: "Eccomerce Analysis"**
 - **Date: 2024-08-24**
-- **Tools Used: Power BI, Excel**
+- **[Link](https://app.powerbi.com/view?r=eyJrIjoiZWUxNTc3YjgtYjM5OS00OGQyLWJjZDMtODk2MjRkZjNkOWZhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)**
 
 *Description:*
 - Utilized Power BI to analyze sales data, achieving 20% growth and surpassing the corporate segment's 30% target 
@@ -49,14 +45,14 @@
   America achieving a 28.13% profit margin. 
 ---
 
-
 ## 📜 Certifications
 
 - **Associate Data Analyst (DataCamp)**  
-  *Issued: December 2024* — [🔗 View]([https://example.com](https://www.datacamp.com/certificate/DAA0012347845230)
+  *Issued: December 2024* — [🔗 View](https://www.datacamp.com/certificate/DAA0012347845230)
 
 - **SQL Associate (DataCamp)**  
-  *Issued: December 2024* — [🔗 View]([https://example.com](https://www.datacamp.com/certificate/SQA0019048337356)
+  *Issued: December 2024* — [🔗 View](https://www.datacamp.com/certificate/SQA0019048337356)
+---
 
 ## Volunteering
 - **Viable Community (Salesforce Administrator)**
