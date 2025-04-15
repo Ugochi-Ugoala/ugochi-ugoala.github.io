@@ -3,7 +3,7 @@
 ## Projects
 
 ### Impact Analysis for GoodThought NGO | SQL Project
-![Bicycle Sales](/doc/assest/Bicycle.png)
+
 ---
 - **Date: 2025-04-14**
 - **Platform: DataCamp**
@@ -19,6 +19,7 @@
 --- 
 
 ### Business Report Automation with Slack | Python & SQL Project
+![Bicycle Sales](/doc/assest/Bicycle.png)
 ---
 - **Date: 2025-03-12**
 - **Platform: DataCamp**
