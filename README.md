@@ -3,7 +3,7 @@
 ## Projects
 
 ### Impact Analysis for GoodThought NGO | SQL Project
-
+![NGO](doc/assest/NGO.png)
 ---
 - **Date: 2025-04-14**
 - **Platform: DataCamp**
