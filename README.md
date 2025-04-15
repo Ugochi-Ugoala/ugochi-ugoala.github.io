@@ -34,6 +34,7 @@
 
 
 ### Eccomerce Analysis | Excel & Power BI Project
+![Eccomerce](doc/assest/rqGT7nsgQ7.png)
 ---
 - **Date: 2024-08-24**
 - **[Link](https://app.powerbi.com/view?r=eyJrIjoiZWUxNTc3YjgtYjM5OS00OGQyLWJjZDMtODk2MjRkZjNkOWZhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)**
