@@ -11,12 +11,12 @@
 - **Link: https://www.datacamp.com/datalab/w/8016cfc2-d174-4614-b9e2-cf5d0b96fca8**
 ---
 - *Description:*
-  *● Analyzed a PostgreSQL database for GoodThought NGO (2010–2023) to extract insights on assignments, donations, 
-    and donor activity using advanced SQL techniques.*
-  *● Designed optimized queries using JOINs and Common Table Expressions (CTEs) to identify 
-    the top five assignments by total donations, segmented by donor type.*
-  *● Translated real-world non-profit data into actionable insights, demonstrating the impact of 
-    data-driven decision-making in global education, healthcare, and sustainability projects.*
+  - ● Analyzed a PostgreSQL database for GoodThought NGO (2010–2023) to extract insights on assignments, donations, 
+    and donor activity using advanced SQL techniques.
+  - ● Designed optimized queries using JOINs and Common Table Expressions (CTEs) to identify 
+    the top five assignments by total donations, segmented by donor type.
+  - ● Translated real-world non-profit data into actionable insights, demonstrating the impact of 
+    data-driven decision-making in global education, healthcare, and sustainability projects.
 --- 
 
 ### Project 2
