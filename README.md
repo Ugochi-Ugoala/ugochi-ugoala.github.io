@@ -10,7 +10,7 @@ Platform: DataCamp
 Tools Used: PostgreSQL, SQL (JOINs, CTEs, Aggregations, Filtering)
 Link: https://www.datacamp.com/datalab/w/8016cfc2-d174-4614-b9e2-cf5d0b96fca8
 ---
-Description:
+*Description:*
 ● Analyzed a PostgreSQL database for GoodThought NGO (2010–2023) to extract insights on assignments, donations, 
   and donor activity using advanced SQL techniques.
 ● Designed optimized queries using JOINs and Common Table Expressions (CTEs) to identify 
@@ -27,7 +27,7 @@ Platform: DataCamp
 Tools Used: Python, PostgreSQL, SQL (JOINs, CTEs, Aggregations, Filtering)
 Link: https://www.datacamp.com/datalab/w/d2fe9599-b2ec-4845-95ec-a322dc293a04
 ---
-Description:
+*Description:*
 ● Designed a structured SQL database to analyze top staff sellers, top customers, and total monthly sales for a bicycle 
 business. 
 ● Developed optimized SQL queries to track sales performance, identify trends, and ensure accurate reporting for 
@@ -42,7 +42,7 @@ title: "Eccomerce Analysis"
 date: 2024-08-24
 Tools Used: Power BI, Excel
 ---
-Description:
+*Description:*
 ● Utilized Power BI to analyze sales data, achieving 20% growth and surpassing the corporate segment's 30% target 
 through strategic data-driven decisions. 
 ● Leveraged Power BI to track and improve profitability, driving a 15% profit margin increase while ensuring all 
@@ -61,8 +61,8 @@ America achieving a 28.13% profit margin.
   *Issued: December 2024* — [🔗 View]([https://example.com](https://www.datacamp.com/certificate/SQA0019048337356)
 
 ## Volunteering
-- ** Viable Community (Salesforce Administrator)**
-  Description:
+- **Viable Community (Salesforce Administrator)**
+  *Description:*
   ● Manage and optimize Salesforce databases using SOQL, ensuring security and performance. 
   ● Administer user roles, automate workflows, and analyze data with Excel.
 
