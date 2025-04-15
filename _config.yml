@@ -1,7 +1,8 @@
 title: Ugochi Uchenna
 tagline: Data Analyst | SQL Developer 
 description: Results-driven SQL Developer and Data Analyst skilled in SQL, Power BI, Excel, and Python. I am an expert in data visualization, statistical analysis, and database management, transforming data into actionable business insights.
-url: "https://ugochi.github.io"
+#show_downloads: True
 author:
   name: Ugochi Uchenna
   email: ugochifavour123@gmail.com
+theme: jekyll-theme-minimal
