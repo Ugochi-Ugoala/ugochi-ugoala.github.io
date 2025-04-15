@@ -1,7 +1,3 @@
-# About Me
-
-**SQL Developer and Data Analyst with expertise in relational database design, query optimization, and ETL pipelines. Skilled in writing complex SQL scripts, building data models, and creating dynamic Power BI dashboards. Adept at translating business requirements into scalable data solutions that support analytics, reporting, and performance monitoring in fintech environments.**
-
 ## Projects
 
 ### Impact Analysis for GoodThought NGO | SQL Project
