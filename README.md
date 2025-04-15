@@ -4,11 +4,11 @@
 
 ### Project 1
 ---
-- title: "Impact Analysis for GoodThought NGO"
-- date: 2025-04-14
-- Platform: DataCamp
-- Tools Used: PostgreSQL, SQL (JOINs, CTEs, Aggregations, Filtering)
-- Link: https://www.datacamp.com/datalab/w/8016cfc2-d174-4614-b9e2-cf5d0b96fca8
+- **title: "Impact Analysis for GoodThought NGO"**
+- **date: 2025-04-14**
+- **Platform: DataCamp**
+- **Tools Used: PostgreSQL, SQL (JOINs, CTEs, Aggregations, Filtering)**
+- **Link: https://www.datacamp.com/datalab/w/8016cfc2-d174-4614-b9e2-cf5d0b96fca8**
 ---
 - *Description:*
   ● Analyzed a PostgreSQL database for GoodThought NGO (2010–2023) to extract insights on assignments, donations, 
