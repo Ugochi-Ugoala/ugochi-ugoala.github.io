@@ -1,7 +1,9 @@
 title: Ugochi Uchenna
-logo: doc/assest/picture.png
-tagline: Certified Data Analyst | SQL Developer 
-description: SQL Developer | Data Analyst 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugochi-ugoala-dc/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ugochifavour123@gmail.com)
+logo: /doc/assets/picture.png
+tagline: Certified Data Analyst | SQL Developer
+description: SQL Developer | Data Analyst
 theme: jekyll-theme-minimal
+
+social_links:
+  linkedin: https://www.linkedin.com/in/ugochi-ugoala-dc/
+  email: "ugochifavour123@gmail.com"
