@@ -1,9 +1,3 @@
----
-layout: page
-title: About Me
-permalink: /about/
----
-
 ## 👋 Hi, I’m Ugochi Uchenna
 
 Certified Data Analyst and SQL Developer passionate about building scalable data solutions and insightful dashboards. My expertise includes SQL, Power BI, and database development with a strong interest in fintech analytics.
