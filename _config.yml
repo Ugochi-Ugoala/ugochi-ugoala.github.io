@@ -7,3 +7,8 @@ theme: jekyll-theme-minimal
 social_links:
   linkedin: https://www.linkedin.com/in/ugochi-ugoala-dc/
   email: "ugochifavour123@gmail.com"
+
+navigation:
+  - title: "About"
+    url: "/about/"
+
