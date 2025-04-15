@@ -1,9 +1,10 @@
-title: Ugochi Uchenna
 logo: doc/assest/Studio Pic.JPG
+title: Ugochi Uchenna
 tagline: Data Analyst | SQL Developer 
 description: SQL Developer | Data Analyst 
+
 #show_downloads: True
 author:
   name: Ugochi Uchenna
   email: ugochifavour123@gmail.com
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal-mistakes
