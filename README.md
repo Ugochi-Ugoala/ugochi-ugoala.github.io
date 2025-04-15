@@ -3,7 +3,7 @@
 ## Projects
 
 ### Impact Analysis for GoodThought NGO | SQL Project
-/doc/assest/Bicycle.png
+![Bicycle Sales](/doc/assest/Bicycle.png)
 ---
 - **Date: 2025-04-14**
 - **Platform: DataCamp**
