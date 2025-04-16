@@ -3,12 +3,3 @@ logo: /doc/assets/picture.png
 tagline: Certified Data Analyst | SQL Developer
 description: SQL Developer | Data Analyst
 theme: jekyll-theme-minimal
-
-social_links:
-  linkedin: https://www.linkedin.com/in/ugochi-ugoala-dc/
-  email: "ugochifavour123@gmail.com"
-
-navigation:
-  - title: "About"
-    url: "/about/"
-
