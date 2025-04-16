@@ -18,12 +18,27 @@
             background: #007acc;
             color: white;
             text-align: center;
+            position: relative;
         }
         header img {
             width: 150px;
             height: 150px;
             border-radius: 50%;
             margin-bottom: 10px;
+        }
+        .badge {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        .badge a {
+            text-decoration: none;
+            color: #007acc;
+            font-weight: bold;
         }
         .container {
             max-width: 1200px;
@@ -38,7 +53,7 @@
             display: inline-block;
             margin-bottom: 20px;
         }
-        .projects, .certifications, .volunteering {
+        .projects, .certifications, .volunteering, .skills {
             margin-top: 20px;
         }
         .project, .certification, .volunteer {
@@ -52,6 +67,22 @@
             max-width: 100%;
             height: auto;
             border-radius: 5px;
+        }
+        .skills {
+            text-align: center;
+        }
+        .skills .skills-list {
+            display: flex;
+            justify-content: center;
+            gap: 50px;
+        }
+        .skills .skills-list ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .skills li {
+            margin-bottom: 10px;
+            text-align: left;
         }
         footer {
             text-align: center;
@@ -87,6 +118,9 @@
         <img src="doc/assest/picture.png" alt="Logo of Ugochi Uchenna">
         <h1>Ugochi Uchenna</h1>
         <p>Certified Data Analyst | SQL Developer</p>
+        <div class="badge">
+            <a href="https://www.datacamp.com/certificate/SQA0019048337356" target="_blank">View Certification</a>
+        </div>
     </header>
     
     <div class="container">
@@ -96,7 +130,25 @@
         </section>
         
         <section>
-            <h2>Projects</h2>
+            <h2>💼 Skills</h2>
+            <div class="skills">
+                <div class="skills-list">
+                    <ul>
+                        <li>Excel</li>
+                        <li>Power BI</li>
+                        <li>SQL</li>
+                    </ul>
+                    <ul>
+                        <li>Snowflake</li>
+                        <li>BigQuery</li>
+                         <li>Python</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        
+        <section>
+            <h2>📁 Projects</h2>
             <div class="projects">
                 <div class="project">
                     <h3>Impact Analysis for GoodThought NGO | SQL Project</h3>
@@ -155,10 +207,10 @@
         </section>
 
         <section>
-            <h2>Volunteering</h2>
+            <h2>🙌 Volunteering</h2>
             <div class="volunteering">
                 <div class="volunteer">
-                    <p><strong>Viable Community (Salesforce Administrator)</strong></p>
+                    <p><strong>Viable Community (Salesforce Administrator)-Present</strong></p>
                     <ul>
                         <li>Manage and optimize Salesforce databases using SOQL, ensuring security and performance.</li>
                         <li>Administer user roles, automate workflows, and analyze data with Excel.</li>
@@ -168,14 +220,14 @@
         </section>
         
         <section>
-            <h2>Contact Me</h2>
+            <h2>📬 Contact Me</h2>
             <p>Let's work together or discuss how I can help with your data and analytics needs. Feel free to connect with me through:</p>
             <div class="contact-icons">
                 <a href="mailto:Ugochifavour123@gmail.com" title="Email">
                     <img src="doc/assest/email icon.jpg" alt="Email Icon">
                 </a>
                 <a href="https://github.com/Ugochi-Ugoala" title="GitHub">
-                    <img src="doc/assets/github-icon.png" alt="GitHub Icon">
+                    <img src="doc/assest/Github.png" alt="GitHub Icon">
                 </a>
                 <a href="https://www.linkedin.com/in/ugochi-ugoala-dc/" title="LinkedIn">
                     <img src="doc/assest/Linkedin icon.png" alt="LinkedIn Icon">
